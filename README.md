@@ -1,5 +1,8 @@
 # 📚 Study Notion  
 
+## Live Demo
+PROJECT LIVEl: [Click here to view the project](https://sachin-study-notion.netlify.app/)
+
 A modern **Full-Stack Learning Platform UI** built with **React + Tailwind CSS + Framer Motion**.  
 This project provides a sleek and animated frontend experience for learners exploring coding and full-stack development.  
 
